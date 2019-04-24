@@ -29,4 +29,12 @@ function appendKitten(name){
 var newKittens = [...kittens, "Broom"];
   return newKittens;
 }
+var kittens = ["Milo","Otis","Garfield"]
+function prependKitten(name){
+  var newKittens = ["Arnold"...kittens]
+  return newKittens
+}
 
+
+
+}
