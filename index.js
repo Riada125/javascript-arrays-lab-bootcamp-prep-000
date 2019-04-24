@@ -41,5 +41,6 @@ var newKittens = kittens.slice(0, kittens.length - 1)
 }
 var kittens = ["Milo","Otis","Garfield"]
 function removeFirstKitten(name){
-var newKittens = kittens.slice(0, kittens.length - 1)
+var newKittens = kittens.slice(0)
   return newKittens;
+}
