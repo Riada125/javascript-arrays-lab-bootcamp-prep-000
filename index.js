@@ -35,6 +35,3 @@ var newKittens = ["Arnold",...kittens]
   return newKittens;
 }
 
-
-
-}
