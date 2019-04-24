@@ -39,3 +39,4 @@ function removeLastKitten(name){
 var newKittens = kittens.slice(3)
   return newKittens;
 }
+
